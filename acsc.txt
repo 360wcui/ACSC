@@ -1,0 +1,11 @@
+a - h - i - p
+b , g, i, p, r
+
+c - h - i - p
+b , f, i, p, r
+
+c - h - i - m
+b , h, i, p, r
+
+c - h - i - n
+b , h, k, p, r
