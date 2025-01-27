@@ -1,0 +1,31 @@
+The Department of Defense (DoD) can influence commercial companies through policies, contracts, and regulations, but it typically cannot unilaterally impose binding mandates on all commercial entities unless authorized by law or other government regulations. Here's how it works:
+
+1. Through Federal Contracts
+The DoD can require companies doing business with it to follow specific policies as part of their contractual obligations. Examples include:
+
+Cybersecurity requirements (e.g., CMMC - Cybersecurity Maturity Model Certification).
+Ethical sourcing of materials.
+Compliance with ITAR or export controls.
+These requirements apply only to companies that choose to engage in contracts with the DoD.
+
+2. Through Existing Federal Laws
+The DoD can enforce compliance indirectly by working within the framework of laws and regulations that govern defense-related activities. For example:
+ITAR: The DoD coordinates with the Department of State to ensure defense contractors comply with export controls.
+FAR/DFARS: Federal Acquisition Regulations (and its defense-specific supplements) set rules for contractors.
+
+3. Through Executive Orders
+The President can issue an executive order directing the DoD to establish policies affecting commercial companies broadly, particularly in industries critical to national defense.
+Example: During emergencies, the Defense Production Act (DPA) allows the President (through the DoD or other agencies) to mandate that companies prioritize contracts or production for national security purposes.
+
+4. Through Rulemaking Authority
+The DoD does not have independent legislative power but can create rules and policies within its authority granted by Congress. These policies can have a broad impact when:
+Backed by Congressional statutes.
+
+Coordinated with other agencies, such as the Department of Commerce or the Department of State.
+
+ITAR as a Law
+Statutory Authority:
+
+ITAR is derived from the Arms Export Control Act (AECA), a law passed by Congress.
+The AECA explicitly delegates authority to the Department of State to create and enforce regulations governing the export of defense-related articles and services.
+
